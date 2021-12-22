@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "tags" : "Crafting and Building",
+  "author" : "Totto",
+  "description" : "Makes it so that one bar will cost one ore to make, instead of one costing two. Now compatible with Frackin' Universe!",
+  "name" : "1Ore=1Bar+FU",
+  "friendlyName" : "More Bars! (1 To 1)",
+  "steamContentId" : "2478673028",
+  "link" : "steam://url/CommunityFilePage/2478673028",
+  "includes" : ["FrackinUniverse"]
+}
